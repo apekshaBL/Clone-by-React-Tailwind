@@ -1,9 +1,9 @@
 
-import Navbar from "./Navbar.jsx"
-import Page from "./Page.jsx"
-import Page2 from "./Page2.jsx"
-import Page3 from "./Page3.jsx"
-import Lastpage from "./Lastpage.jsx"
+import Navbar from "./Components/Navbar.jsx"
+import Page from "./Components/Page.jsx"
+import Page2 from "./Components/Page2.jsx"
+import Page3 from "./Components/Page3.jsx"
+import Lastpage from "./Components/Lastpage.jsx"
 
 function App() {
   

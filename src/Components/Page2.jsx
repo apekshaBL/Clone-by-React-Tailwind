@@ -5,7 +5,7 @@ function Page2(){
         <section className="p-6  my-12  ">
            <h2 className="text-center text-4xl  font-bold sm:text-5xl mb-6 text-slate-900 dark:text-white">Our Rockets</h2>
            <div className="flex justify-center">
-           <Cards  title="Explorer" tool="$" image="src/images/explorer.png"/>
+           <Cards    title="Explorer" tool="$" image="src/images/explorer.png"/>
            <Cards  title="Adventurer " tool="$$" image="src/images/adventure.png"/>
            <Cards title="Infinity" tool="$$$" image="src/images/infinity.png"/>
            </div>
